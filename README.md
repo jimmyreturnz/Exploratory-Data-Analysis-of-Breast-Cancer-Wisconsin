@@ -5,7 +5,7 @@ you can view the .ipynb notebook of the project [here](https://github.com/jimmyr
 
 ## Overview
 
-This project is about applying the process of Exploratory Data Analysis (EDA) and basic Model Training for classifying breast cancer diagnoses (Malignant vs. Benign) \
+This project is about applying the process of Exploratory Data Analysis (EDA) and basic Model Training for classifying breast cancer diagnoses (Malignant vs. Benign) 
 using the **Breast Cancer Wisconsin** dataset, with the goal of **maximizing recall** since it is a medical data. 
 
 ## 1. Loading Data + Basic Checkings 
